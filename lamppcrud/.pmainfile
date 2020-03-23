@@ -1,0 +1,10 @@
+{"mainfile":"index.php",
+"runmenucommand":"sh ./.runfile.sh",
+"compilemenucommand":"python3 functions.py",
+"testmenucommand":"sh ./runfile.sh",
+"previewApp":true,
+"timeout":3000,
+"outputport":4203,
+"refreshurl":true,
+"startupcommand":"sh ./.chown.sh"
+}
